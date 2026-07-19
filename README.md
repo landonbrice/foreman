@@ -91,3 +91,5 @@ Built and verified: **phases 0–3**.
   not per-token. That empty cost column is the design working as intended.
 - Codex telemetry gives a single token total (stored under `tokens_out`); Claude
   gives a full in/out split.
+
+> Gate wiring smoke test.
